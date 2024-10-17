@@ -3,7 +3,7 @@
 %define devname %mklibname %{name} -d
 
 Name:             rtl-sdr
-URL:              http://sdr.osmocom.org/trac/wiki/rtl-sdr
+URL:              https://sdr.osmocom.org/trac/wiki/rtl-sdr
 Version:          0.6.0
 Release:          3
 License:          GPLv2+
