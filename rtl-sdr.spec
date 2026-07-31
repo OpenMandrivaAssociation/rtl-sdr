@@ -4,8 +4,8 @@
 
 Name:			rtl-sdr
 URL:			https://sdr.osmocom.org/trac/wiki/rtl-sdr
-Version:		0.6.0
-Release:		4
+Version:		2.0.2
+Release:		1
 License:		GPL-2.0-or-later
 Group:			Communications/Radio
 Summary:		SDR utilities for Realtek RTL2832 based DVB-T dongles
